@@ -1,0 +1,185 @@
+.bg-dark {
+    background-color: #111111;
+  }
+  .relative {
+    position: relative;
+  }
+  .p-custom {
+    padding: 39.1px 0 510.7px 0;
+  }
+  .w-custom {
+    width: 1425px;
+  }
+  .box-sizing-border {
+    box-sizing: border-box;
+  }
+  .bg-image {
+    background: url('../assets/images/image_35.png') 50% 50% / contain no-repeat;
+  }
+  .center-x {
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .w-image {
+    width: 1000px;
+  }
+  .h-image {
+    height: 485px;
+  }
+  .w-content {
+    width: 70%;
+  }
+  .h-fit-content {
+    height: fit-content;
+  }
+  .bg-white {
+    background-color: #FFFFFF;
+  }
+  .m-margin-vertical {
+    margin: 13.3px 0 11.7px 0;
+  }
+  .w-bar {
+    width: 335.4px;
+  }
+  .h-bar {
+    height: 4px;
+  }
+  .font-inter {
+    font-family: 'Inter', sans-serif;
+  }
+  .font-semibold {
+    font-weight: 600;
+  }
+  .text-title {
+    font-size: 24.6px;
+  }
+  .tracking-title {
+    letter-spacing: 7px;
+  }
+  .leading-title {
+    line-height: 1.171;
+  }
+  .uppercase {
+    text-transform: uppercase;
+  }
+  .text-white {
+    color: #FFFFFF;
+  }
+  .right-custom {
+    right: 88.5px;
+  }
+  .bottom-custom {
+    bottom: 80px;
+  }
+  .flex {
+    display: flex;
+  }
+  .flex-col {
+    flex-direction: column;
+  }
+  .items-center {
+    align-items: center;
+  }
+  .bg-secondary {
+    background-color: #202123;
+  }
+  .m-bottom {
+    margin: 0 0 24px 0;
+  }
+  .p-padding {
+    padding: 14.5px 0 12.5px 25.8px;
+  }
+  .w-box {
+    width: 420px;
+  }
+  .m-icon-margin {
+    margin: 2.2px 19.7px 7.6px 0;
+  }
+  .w-icon {
+    width: 18.5px;
+  }
+  .h-icon {
+    height: 17.1px;
+  }
+  .font-light {
+    font-weight: 300;
+  }
+  .text-subtitle {
+    font-size: 17.6px;
+  }
+  .tracking-subtitle {
+    letter-spacing: 1px;
+  }
+  .leading-subtitle {
+    line-height: 1.534;
+  }
+  .text-subtitle-color {
+    color: #CCCECE;
+  }
+  .w-large-icon {
+    width: 24px;
+  }
+  .h-large-icon {
+    height: 24px;
+  }
+  .w-small-icon {
+    width: 16.3px;
+  }
+  .h-small-icon {
+    height: 21.4px;
+  }
+  .m-bottom-large {
+    margin: 0 0 48px 0;
+  }
+  .rounded-custom {
+    border-radius: 4px;
+  }
+  .bg-dark-secondary {
+    background-color: #262525;
+  }
+  .p-button {
+    padding: 13px 23.3px 14px 0;
+  }
+  .w-button {
+    width: 320px;
+  }
+  .m-button-margin {
+    margin: 0 13.5px 0 0;
+  }
+  .w-button-text {
+    width: 226.1px;
+  }
+  .text-button {
+    font-size: 18.4px;
+  }
+  .tracking-button {
+    letter-spacing: 3px;
+  }
+  .leading-button {
+    line-height: 1.467;
+  }
+  .m-arrow-margin {
+    margin: 6.5px 0 5.5px 0;
+  }
+  .w-arrow {
+    width: 7.5px;
+  }
+  .h-arrow {
+    height: 15px;
+  }
+  
+
+  /* Form.css */
+
+.bg-dark {
+  width: 100%; /* Ensure the form takes up the full width of its container */
+}
+
+.relative {
+  width: 100%; /* Ensure the relative positioning takes up the full width */
+}
+
+/* Add any other necessary styles here */
+.justify-between {
+  justify-content: flex-start; /* Align items towards the start (left) */
+}

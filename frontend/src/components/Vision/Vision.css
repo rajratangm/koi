@@ -1,0 +1,16 @@
+/* Vision.css */
+/* .vision-container {
+    width: 100%;
+  } */
+
+  /* Vision.css */
+.vision-container {
+    width: 100%;
+  }
+  
+  .image-grid-container {
+    display: flex;
+    justify-content: center; /* Center the grid horizontally */
+    margin-top: 20px; /* Adjust the top margin as needed */
+  }
+  
